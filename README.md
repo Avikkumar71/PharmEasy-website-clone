@@ -2,9 +2,10 @@
 
 Welcome to the PharmEasy Frontend Clone! This project is a frontend replication of the popular online pharmacy platform "PharmEasy." It provides users with a seamless and intuitive browsing experience for pharmaceutical products and medical services.
 
-## Image
+## Demo
 
-![Image](https://i.postimg.cc/94RJcwFK/File.png)
+![Demo Image](https://i.postimg.cc/RW8LpCQR/example-image.png)
+
 
 
 
