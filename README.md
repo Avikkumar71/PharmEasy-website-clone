@@ -4,7 +4,7 @@ Welcome to the PharmEasy Frontend Clone! This project is a frontend replication 
 
 ## Demo
 
-![Demo Image](https://i.postimg.cc/RW8LpCQR/YOUR_IMAGE_FILENAME.png)
+![Demo Image](https://postimg.cc/94RJcwFK)
 
 
 ## Features
